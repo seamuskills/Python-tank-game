@@ -1,7 +1,7 @@
 import pygame, random
 
 pygame.init()
-sc = pygame.display.set_mode((512,256),pygame.FULLSCREEN)
+sc = pygame.display.set_mode((512,256))
 c = pygame.time.Clock()
 font = pygame.font.SysFont(None,24)
 
